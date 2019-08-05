@@ -1,15 +1,7 @@
 # ComputerAnimation-AmusementPark
 OpenGL computer animated SciFi themed amusement park in C++
 
-![Demo](https://github.com/mpc6/mpc6.github.io/blob/master/FutureWorld_AmusementPark-video.mp4)
-
-[![Project Demo]](https://youtu.be/ngKep9XJIhQ)
-
-<figure class="video_conttainer">
-  <video controls="true" allowfullscreen"true">
-  <source src="https://github.com/mpc6/mpc6.github.io/blob/master/FutureWorld_AmusementPark-video.mp4" type="video/mp4">
-  </video>
-</figure>
+[Project Demo](https://youtu.be/ngKep9XJIhQ)
 
 # Implemented Techniques
 - Texture mapping
